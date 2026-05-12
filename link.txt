@@ -1,0 +1,3 @@
+local host:  php -S localhost:8000 xml_import_compare.php
+link: http://localhost:8000
+passphrase: YSQhNIRYCXiRqWONOxkhtkwyl
